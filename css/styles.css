@@ -482,16 +482,8 @@ height: 80%;
     padding: 60px;
 }
 .da-dots span {
-    display: inline-block;
-    position: relative;
-    width: 16px;
-    height: 16px;
-    border-radius: 0px;
+
     background: rgba(255, 255, 255, 0.13);
-    margin: 3px;
-    cursor: pointer;
-    box-shadow: 1px 1px 1px rgba(0,0,0,0.6) inset, 1px 1px 1px rgba(255,255,255,0.1);
-    border: 2px solid rgba(255, 255, 255, 0.6);
 }
 .secPad{
 	padding:60px 0;
